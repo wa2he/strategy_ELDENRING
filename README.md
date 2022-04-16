@@ -1,2 +1,6 @@
-# strategy_ELDENRING
-strategy_ELDENRING
+# 艾尔登法环攻略
+## BOSS打法
+### 大树守卫
+### “恶兆妖鬼”玛尔吉特
+### ”截肢“葛瑞克
+### 黄金树的化身
